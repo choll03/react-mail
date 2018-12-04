@@ -35,7 +35,8 @@ class HomeComponent extends Component {
 			                <div className="avatar" style={{backgroundImage:"url(assets/img/avatars/avatar2.jpg)"}}></div>
 			                <div className="about-me">
 			                    <p>{data.opening} <strong>{data.name}</strong>. {data.bio}</p>
-								<a className="btn btn-outline-primary" href="https://api.whatsapp.com/send?phone=6281535377109&text=Halo%20Mail">{data.button}</a></div>
+								<a className="btn btn-outline-primary" href="https://api.whatsapp.com/send?phone=6281535377109&text=Halo%20Mail">{data.button}</a>
+							</div>
 			            </div>
 			        </section>
 			        <section className="portfolio-block cv">
