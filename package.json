@@ -9,7 +9,7 @@
     "firebase": "^5.3.1",
     "forever": "^0.15.3",
     "history": "^4.7.2",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "morgan": "^1.9.1",
     "querybase": "^0.6.0",
     "react": "^16.4.2",
